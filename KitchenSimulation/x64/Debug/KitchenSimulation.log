@@ -1,0 +1,3 @@
+﻿  KitchenSimulation.cpp
+G:\Develop\modul_28_task_2\KitchenSimulation\KitchenSimulation\KitchenSimulation.cpp(80,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  KitchenSimulation.vcxproj -> G:\Develop\modul_28_task_2\KitchenSimulation\x64\Debug\KitchenSimulation.exe
